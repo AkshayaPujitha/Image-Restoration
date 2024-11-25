@@ -5,3 +5,7 @@ Image restoration involves recovering degraded images by reducing noise, correct
 # Data set link for clear images
 https://data.vision.ee.ethz.ch/cvl/DIV2K/
 
+# Result
+
+![Output](output.png)
+
